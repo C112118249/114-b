@@ -16,6 +16,7 @@ graph TD
     A9 --> A11[11 使用者測試 25天]
     A10 --> A11
 
-    classDef critical fill=#f77,stroke=#333,stroke-width=2px;
+    classDef critical fill:#f77,stroke:#333,stroke-width:2px;
     class A1,A2,A4,A6,A8,A10,A11 critical;
+
 
