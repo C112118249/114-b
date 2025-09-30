@@ -21,7 +21,7 @@ graph TD
 
 
 gantt
-    title 作業2 甘特圖
+    title 作業2甘特圖
     dateFormat  YYYY-MM-DD
     axisFormat  %m/%d
 
@@ -37,3 +37,4 @@ gantt
     系統測試        :a9, after a5, 25d
     使用者訓練      :a10, after a7, 20d
     使用者測試      :a11, after a9, 25d
+
