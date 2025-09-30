@@ -22,7 +22,7 @@ graph TD
 
 gantt
     title 作業2甘特圖
-    dateFormat  YYYY-MM-DD
+    dateFormat  2025-10-01
     axisFormat  %m/%d
 
     section 任務
