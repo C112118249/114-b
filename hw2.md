@@ -19,8 +19,10 @@ A10 --> A11
 classDef critical fill:#f77,stroke:#333,stroke-width:2px;
 class A1,A2,A4,A6,A8,A10,A11 critical;
 
-
+``` 
+```mermaid
 ## 2. 甘特圖
+
 gantt
 dateformat YYYY-MM-DD
 axisFormat %m/%d
@@ -38,5 +40,5 @@ section 任務
 使用者訓練 :a10, after a7, 20d
 使用者測試 :a11, after a9, 25d
 
-
+``` 
 
