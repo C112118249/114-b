@@ -20,9 +20,10 @@ graph TD
     class A1,A2,A4,A6,A8,A10,A11 critical;
 
 
-``` 
-```mermaid
+```
 ## 2. 甘特圖
+```mermaid
+
 
 gantt
 title 作業:甘特圖
