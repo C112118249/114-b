@@ -21,7 +21,7 @@ graph TD
 
 
 gantt
-    title 甘特圖 - 作業2
+    title Gantt Chart 作業2
     dateFormat  YYYY-MM-DD
     axisFormat  %m/%d
 
